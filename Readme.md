@@ -24,11 +24,11 @@ The correlator from experiment carries noise, and normally has data points less 
 
   The parameters within functions above are listed in table:
 
-<img src="https://github.com/Chern2/Network-approach-to-extract-spectral-function-from-correlator-/blob/master/image/sample_parameters.png" width = "350" height = "125"/>
+<img src="https://github.com/Chern2/Network-approach-to-extract-spectral-function-from-correlator-/blob/master/image/sample_parameters.png" width = "350" height = "125" div align=center/>
 
 For example, the $\hat{\rho}_{below}$ look like:
 
-<img src="https://github.com/Chern2/Network-approach-to-extract-spectral-function-from-correlator-/blob/master/image/training_sample.png" width = "250" height = "250"/>
+<img src="https://github.com/Chern2/Network-approach-to-extract-spectral-function-from-correlator-/blob/master/image/training_sample.png" width = "500" height = "500"  div align=center/>
 
 ## Network hyper-parameters and training sample  parameters setting：
 
