@@ -1,4 +1,4 @@
-# The project aims to propose a network to extract spectral function from correlator
+# The project aims to propose a network to extract spectral function from correlator.
 
 ## problem description:
 
