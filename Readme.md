@@ -1,4 +1,4 @@
-# The project aims to propose a network to extract spectral function from correlator.
+# The project aims to propose a network to extract spectral function from correlator
 
 ## problem description:
 
@@ -30,6 +30,6 @@ For example, the $\hat{\rho}_{below}$ look like:
 
 <img src="https://github.com/Chern2/Network-approach-to-extract-spectral-function-from-correlator-/blob/master/image/training_sample.png" width = "250" height = "250"/>
 
-## Network hyper-parameters and training sample  parameters setting
+## Network hyper-parameters and training sample  parameters setting：
 
 Network hyper-parameters and training sample  parameters are free to change. All are listed in file parameter.py, so you can change setting base on your need.   # Network-approach-to-extract-spectral-function-from-correlator-
