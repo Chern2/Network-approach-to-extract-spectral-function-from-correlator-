@@ -4,11 +4,11 @@
 
 There is a well known relation correlator G with spectral function $\rho$:
 
-![correlator_spectral](https://github.com/Chern2/Network-approach-to-extract-spectral-function-from-correlator-/blob/master/image/correlator_spectral.png)
+<img src="https://github.com/Chern2/Network-approach-to-extract-spectral-function-from-correlator-/blob/master/image/correlator_spectral.png" width = "350" height = "40"/>
 
 where:
 
-![kernel_function](https://github.com/Chern2/Network-approach-to-extract-spectral-function-from-correlator-/blob/master/image/kernel_function.png)
+<img src="https://github.com/Chern2/Network-approach-to-extract-spectral-function-from-correlator-/blob/master/image/kernel_function.png" width = "200" height = "30"/>
 
 The correlator from experiment carries noise, and normally has data points less than hundreds, and we want to obtain spectral function more that thousands. Thus, it is traditional ill-posed problem.
 
@@ -16,19 +16,19 @@ The correlator from experiment carries noise, and normally has data points less 
 
  Training samples are constructed by two different formulas base on different channel and temperature. And they are listed following:
 
-![training_function](https://github.com/Chern2/Network-approach-to-extract-spectral-function-from-correlator-/blob/master/image/training_function.png)
+<img src="https://github.com/Chern2/Network-approach-to-extract-spectral-function-from-correlator-/blob/master/image/training_function.png" width = "350" height = "120"/>
 
  where:
 
-![theta_function](https://github.com/Chern2/Network-approach-to-extract-spectral-function-from-correlator-/blob/master/image/zheta_function.png)
+<img src="https://github.com/Chern2/Network-approach-to-extract-spectral-function-from-correlator-/blob/master/image/zheta_function.png" width = "200" height = "40"/>
 
   The parameters within functions above are listed in table:
 
-![sample_parameters](https://github.com/Chern2/Network-approach-to-extract-spectral-function-from-correlator-/blob/master/image/sample_parameters.png)
+<img src="https://github.com/Chern2/Network-approach-to-extract-spectral-function-from-correlator-/blob/master/image/sample_parameters.png" width = "350" height = "125"/>
 
 For example, the $\hat{\rho}_{below}$ look like:
 
-![training_sample](https://github.com/Chern2/Network-approach-to-extract-spectral-function-from-correlator-/blob/master/image/training_sample.png)
+<img src="https://github.com/Chern2/Network-approach-to-extract-spectral-function-from-correlator-/blob/master/image/training_sample.png" width = "250" height = "250"/>
 
 ## Network hyper-parameters and training sample  parameters setting
 
