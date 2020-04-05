@@ -32,4 +32,4 @@ For example, the $\hat{\rho}_{below}$ look like:
 
 ## Network hyper-parameters and training sample  parameters setting：
 
-Network hyper-parameters and training sample  parameters are free to change. All are listed in file parameter.py, so you can change setting base on your need.   # Network-approach-to-extract-spectral-function-from-correlator-
+Network hyper-parameters and training sample  parameters are free to change. All are listed in file parameter.py, so you can change setting base on your need.   
