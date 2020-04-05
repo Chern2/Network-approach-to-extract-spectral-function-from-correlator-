@@ -28,7 +28,7 @@ The correlator from experiment carries noise, and normally has data points less 
 
 For example, the $\hat{\rho}_{below}$ look like:
 
-<img src="https://github.com/Chern2/Network-approach-to-extract-spectral-function-from-correlator-/blob/master/image/training_sample.png" width = "500" height = "500"  div align=center/>
+<img src="https://github.com/Chern2/Network-approach-to-extract-spectral-function-from-correlator-/blob/master/image/training_sample.png" width = "500" height = "500" div align=center/>
 
 ## Network hyper-parameters and training sample  parameters setting：
 
